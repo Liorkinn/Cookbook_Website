@@ -1,0 +1,6 @@
+dj-database-url
+Django
+gunicorn  //преобразование //запросов //клиентов //по //протоколу //HTTP //в //вызовы //Python
+psycopg2
+whitenoise
+Pillow
