@@ -34,8 +34,14 @@
       ![image](https://user-images.githubusercontent.com/57214464/147605126-c9606289-7e9d-4669-9066-38b1cb544093.png)
 
 5. Используем команду *docker image ls для просмотра*.
-6. Используем *docker build -t liorkinn/cookbook:v1* для выгрузки компонентов на v1.
+6. Используем *docker push liorkinn/cookbook:v1* для выгрузки компонентов на v1.
 ![image](https://user-images.githubusercontent.com/57214464/147605544-9fb52423-4dd3-4d35-8cd3-c2f466b34531.png)
+7. Т.к. наш compose файл создан(см. файл docker-compose.yml) - Необходимо перейти в директорию с данным файлом(cd ../ и cd Путь) и прописать следующие команды: *docker-compose up -d* и *docker-compose up*. Мы начинаем запуск приложения. Открывается 127.0.0.1:8000, и сайт нам доступен.
+
+![image](https://user-images.githubusercontent.com/57214464/147606004-14fb58a2-ae74-492a-866b-d9ca040352db.png)
+![image](https://user-images.githubusercontent.com/57214464/147606030-7f660447-4b25-467a-b2ea-7da6beaab182.png)
+
+
 
 
 
