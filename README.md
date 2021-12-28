@@ -32,6 +32,7 @@
 4. Используем команду *docker build -t liorkinn/cookbook:v1 .*. Она нужна для того, чтобы задать "версию" в Docker.
 
 ![image](https://user-images.githubusercontent.com/57214464/147605126-c9606289-7e9d-4669-9066-38b1cb544093.png)
+
 5. Используем команду *docker image ls для просмотра*.
 6. Используем *docker build -t liorkinn/cookbook:v1* для выгрузки компонентов на v1.
 ![image](https://user-images.githubusercontent.com/57214464/147605544-9fb52423-4dd3-4d35-8cd3-c2f466b34531.png)
