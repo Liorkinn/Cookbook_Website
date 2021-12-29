@@ -48,7 +48,7 @@
 3. docker-compose up -d
 4. docker-compose up
 
-![image](https://user-images.githubusercontent.com/57214464/147620289-a7a2c452-860a-4ee8-a73b-a78649a45fbc.png)
+![image](https://user-images.githubusercontent.com/57214464/147620335-c84f52f6-d503-4667-9b91-b5ecefbb9d5b.png)
 
 
 
