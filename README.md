@@ -42,6 +42,8 @@
 ![image](https://user-images.githubusercontent.com/57214464/147606004-14fb58a2-ae74-492a-866b-d9ca040352db.png)
 ![image](https://user-images.githubusercontent.com/57214464/147606030-7f660447-4b25-467a-b2ea-7da6beaab182.png)
 
+![image](https://user-images.githubusercontent.com/57214464/147620413-43f19648-3c9e-4abd-adea-48cc02608729.png)
+
 # Настройка и выгрузка сайта на Docker [Linux]
 1. set -a
 2. source .env
