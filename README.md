@@ -3,10 +3,6 @@
 ![image](https://user-images.githubusercontent.com/57214464/147603242-ca254829-c7e4-4cbc-9b24-262e1bf32f0d.png)
 
 # Использованные инструменты для разработки:
-![HTML](https://img.shields.io/badge/-html-01000d?style=for-the-badge&logo=html&logoColor=white)
-![DOCKER](https://img.shields.io/badge/-Docker-01000d?style=for-the-badge&logo=docker&logoColor=white)
-![PYTHON](https://img.shields.io/badge/-Python-01000d?style=for-the-python&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/-Django-01000d?style=for-the-django&logo=django&logoColor=white)
 
 1. SQLite.
 2. Django/Python.
