@@ -42,7 +42,11 @@
 ![image](https://user-images.githubusercontent.com/57214464/147606004-14fb58a2-ae74-492a-866b-d9ca040352db.png)
 ![image](https://user-images.githubusercontent.com/57214464/147606030-7f660447-4b25-467a-b2ea-7da6beaab182.png)
 
-
+# Настройка и выгрузка сайта на Docker [Linux]
+1. set -a
+2. source .env
+3. docker-compose up -d
+4. docker-compose up
 
 
 
