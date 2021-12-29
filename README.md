@@ -45,7 +45,7 @@
 
 ![image](https://user-images.githubusercontent.com/57214464/147620413-43f19648-3c9e-4abd-adea-48cc02608729.png)
 
-# Настройка и выгрузка сайта на Docker [Linux]
+# Настройка и выгрузка сайта на Docker [Linux].
 1. set -a
 2. source .env
 3. docker-compose up -d
